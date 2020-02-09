@@ -4,4 +4,4 @@ This repository servers as a central location for presentations I have given at 
 
 List
 --
-1. STL CyberCon 2019 "_Hands Up! This Is a ROPpery!_"
+1. STL CyberCon 2019 "_Hands Up! This Is a ROPpery!_: Introduction to Defeating DEP with ROP"
