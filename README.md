@@ -4,5 +4,5 @@ This repository servers as a central location for presentations I have given at 
 
 List
 --
-1. STL CyberCon 2019 "_Hands Up! This Is a ROPpery!_: Introduction to Defeating DEP with ROP"
-2. BSides Dayton 2020 "_From JMP ESP to CET: The Current State of Exploit Development"
+1. STL CyberCon 2019 "_Hands Up! This Is a ROPpery!: Introduction to Defeating DEP with ROP_"
+2. BSides Dayton 2020 "_From JMP ESP to CET: The Current State of Exploit Development_"
